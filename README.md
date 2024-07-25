@@ -28,13 +28,31 @@ https://xn--wbttbx74p4sd.com/home <br>
 
 【初期画面】
 ![](images/initial_page.png "")
-予約管理ページ、カテゴリー管理ページ、アカウント管理ページなどのページに遷移できるページです。
+・予約管理ページ、カテゴリー管理ページ、アカウント管理ページなどのページに遷移できるページです。
 <br>
 
-【無条件検索画面1ページ目】
-![](images/torisikiski_toroku_kensaku_mujoken.PNG "")
+【予約カレンダー初期画面】
+![](images/calendar_initial_page.png "")
+・予約管理をするページです。<br>
+　日付をクリックすると予約画面が現れます。
+<br>
 
-【無条件検索画面2ページ目】
+【予約入力画面_1】
+![](images/calendar_reservation_page1.png "")
+・予約の開始時間を選択する画面です
+<br>
+
+無条件検索画面2ページ目】
+![](images/torisikiski_toroku_kensaku_mujoken2.PNG "")
+
+<br>
+
+無条件検索画面2ページ目】
+![](images/torisikiski_toroku_kensaku_mujoken2.PNG "")
+
+<br>
+
+無条件検索画面2ページ目】
 ![](images/torisikiski_toroku_kensaku_mujoken2.PNG "")
 
 <br>
