@@ -41,7 +41,7 @@ https://xn--wbttbx74p4sd.com/home <br>
 
 【予約入力画面_1】
 ![](images/calendar_reservation_page1.png "")
-・予約の開始時間を選択する画面です。
+・予約の開始時間を選択する画面です。<br>
 <br>
 <br>
 
@@ -77,16 +77,32 @@ https://xn--wbttbx74p4sd.com/home <br>
 <br>
 <br>
 
-無条件検索画面2ページ目】
-![](images/torisikiski_toroku_kensaku_mujoken2.PNG "")
-
-<br>
-<br>
-
-無条件検索画面2ページ目】
-![](images/torisikiski_toroku_kensaku_mujoken2.PNG "")
-
+【カテゴリー管理画面】
+![](images/category_page.png "")
+・カテゴリーの[追加][更新][削除]ができるページです。<br>
+　[カテゴリー名][所要時間][カテゴリーナンバー(表示する順番)]を入力できます。<br>
 <br>
 <br>
 
 【ホームページ】 <br>
+予約ができるかの確認や料金の確認ができます。
+<br>
+
+【ホームページ_1】 
+![](images/home_page1.png "")
+
+<br>
+<br>
+
+【ホームページ_2】 
+![](images/home_page2.png "")
+
+<br>
+<br>
+
+【ホームページ_3】 
+![](images/home_page3.png "")
+・
+<br>
+<br>
+
