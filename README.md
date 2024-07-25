@@ -96,13 +96,16 @@ https://xn--wbttbx74p4sd.com/home <br>
 
 【ホームページ_2】 
 ![](images/home_page2.png "")
-
+・美容室の営業日カレンダーです。<br>
+　クリックすると予約ができるか確認ができます。<br>
 <br>
 <br>
 
 【ホームページ_3】 
 ![](images/home_page3.png "")
-・
+・予約ができるか確認ができます。<br>
+　[〇]予約ができる<br>
+　[×]予約ができない<br>
 <br>
 <br>
 
