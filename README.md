@@ -28,6 +28,8 @@ https://xn--wbttbx74p4sd.com/home <br>
 
 【初期画面】
 ![](images/initial_page.png "")
+予約管理ページ、カテゴリー管理ページ、アカウント管理ページなどのページに遷移できるページです。
+<br>
 
 【無条件検索画面1ページ目】
 ![](images/torisikiski_toroku_kensaku_mujoken.PNG "")
