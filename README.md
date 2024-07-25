@@ -2,7 +2,7 @@
 実家の美容室で運用する予定で作った予約管理システムと、予約が確認できるホームページです。<br>
 管理ページでは予約の[追加][更新][削除]などができます。<br>
 ホームページではカレンダーがあり、予約ができるかの確認ができます。<br>
-
+製作期間は約3ヶ月です。<br>
 <br>
 
 菊美容室のホームページ<br>
@@ -22,15 +22,19 @@ https://xn--wbttbx74p4sd.com/home <br>
 　調べたり実装する作業で想定より1日かかりました。<br>
 
 # 機能
-【取引先情報の検索機能】 <br>
-検索項目に一致した取引先情報をデータベースから取得して表示します。
+【管理ページ】 <br>
+予約の管理やカットやパーマなどのカテゴリーの編集ができます。
 
 
 【初期画面】
-![](images/torisikiski_toroku_shoki_gamen.PNG "")
+![](images/initial_page.png "")
 
 【無条件検索画面1ページ目】
 ![](images/torisikiski_toroku_kensaku_mujoken.PNG "")
 
 【無条件検索画面2ページ目】
 ![](images/torisikiski_toroku_kensaku_mujoken2.PNG "")
+
+<br>
+
+【ホームページ】 <br>
