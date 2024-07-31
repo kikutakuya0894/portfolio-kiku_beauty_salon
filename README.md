@@ -14,6 +14,7 @@ https://xn--wbttbx74p4sd.com/home <br>
 ・Bootstrap<br>
 ・JavaScript<br>
 ・jquery<br>
+・MySQL<br>
 
 # こだわったポイント
 　ユーザビリティを高めるために、予約の追加などの処理は<br>
