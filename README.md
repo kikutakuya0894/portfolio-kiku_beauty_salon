@@ -9,12 +9,12 @@
 https://xn--wbttbx74p4sd.com/home <br>
 
 # 使用技術
-・PHP <br>
-・Laravel <br>
-・Bootstrap<br>
+・PHP 8.0.30<br>
+・Laravel 9.52.7 <br>
+・Bootstrap 5.2.3<br>
 ・JavaScript<br>
 ・jquery<br>
-・MySQL<br>
+・MySQL 10.4.32-MariaDB<br>
 
 # こだわったポイント
 　ユーザビリティを高めるために、予約の追加などの処理は<br>
