@@ -82,6 +82,37 @@ https://xn--wbttbx74p4sd.com/home <br>
 <br>
 <br>
 
+【予約削除_1】
+![](images/calendar_reservation_page_delete1.png "")
+・予約を選択すると、予約の詳細が表示されます。
+<br>
+<br>
+
+【予約削除_2】
+![](images/calendar_reservation_page_delete2.png "")
+・削除ボタンを押すと、確認ダイアログが表示され「OK」を押すと予約が削除されます。
+<br>
+<br>
+
+【削除・復元ログ_1】
+![](images/initial_page_log1.png "")
+・予約を削除すると、初期画面に削除ログが生成されます。
+<br>
+<br>
+
+【削除・復元ログ_2】
+![](images/calendar_reservation_page_restore1.png "")
+・削除ログをクリックすると、削除した予約を復元することができます。
+<br>
+<br>
+
+【削除・復元ログ_3】
+![](images/initial_page_log2.png "")
+・予約を復元すると、初期画面に復元ログが生成されます。
+<br>
+<br>
+
+
 【メニュー管理画面】
 ![](images/menu_page.png "")
 ・ホームページで表示するメニューの[追加][更新][削除]ができるページです。<br>
