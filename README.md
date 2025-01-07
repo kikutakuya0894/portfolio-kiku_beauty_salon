@@ -13,7 +13,7 @@ https://xn--wbttbx74p4sd.com/home <br>
 ・Laravel 9.52.7 <br>
 ・Bootstrap 5.2.3<br>
 ・JavaScript<br>
-・jquery<br>
+・jquery 3.4.1<br>
 ・MySQL 10.4.32-MariaDB<br>
 
 # こだわったポイント
