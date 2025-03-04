@@ -7,6 +7,13 @@
 
 菊美容室のホームページ<br>
 https://xn--wbttbx74p4sd.com/home <br>
+<br>
+菊美容室のホームページ＆予約管理システムの動画
+https://youtu.be/GVLdrMwehoM <br>
+※この動画は菊美容室で使っているホームページと予約管理システムのテスト環境での動画です。
+テスト環境なため画面が重く、WindowsのXboxGameBarを使って録画しているのでセレクトボックスなどが表示されていません。
+<br>
+<br>
 
 # 使用技術
 ・PHP 8.0.30<br>
