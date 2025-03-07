@@ -9,7 +9,7 @@
 https://xn--wbttbx74p4sd.com/home <br>
 <br>
 菊美容室のホームページ＆予約管理システムの動画<br>
-https://youtu.be/XnzFTfNrXXA <br>
+https://youtu.be/CpBSqf7uSVU <br>
 ※この動画は菊美容室で使っているホームページと予約管理システムのテスト環境での動画です。<br>
 テスト環境なため画面が重く、WindowsのXboxGameBarを使って録画しているのでセレクトボックスなどが表示されていません。
 <br>
